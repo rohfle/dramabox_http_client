@@ -1,0 +1,4 @@
+build/
+sdkconfig.old
+device/main/config.h
+node_modules/
